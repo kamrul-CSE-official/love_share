@@ -14,7 +14,7 @@ Electron + Vite + React + TailwindCSS Boilerplate
 
 Follow these steps to get started with the template:
 
-1. Click the **[Use this template](https://github.com/sunny-dx/vite-electron-react-tailwind-boilerplate/generate)** button (you must be
+1. Click the button (you must be
    logged in) or just clone this repo.
 2. Install all the dependencies using yarn or npm
 
